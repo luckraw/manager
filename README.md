@@ -2,7 +2,7 @@
 
 Este é um programa simples de cadastro de clientes em Ruby. Ele permite ao usuário cadastrar novos clientes, listar os clientes cadastrados e encerrar o programa.
 
-#Funcionalidades
+# Funcionalidades
 
 Cadastrar um novo cliente
 Para cadastrar um novo cliente, escolha a opção "novo" no menu principal. Em seguida, insira o nome, o e-mail e o telefone do cliente. O programa irá armazenar as informações e exibir uma mensagem de sucesso.
